@@ -8,7 +8,9 @@ The
 
 ## Installation
 
-The `put-your-code-here`
+### Create Anaconda environment
+
+The `conda env create -f `
 
 
 ## 
