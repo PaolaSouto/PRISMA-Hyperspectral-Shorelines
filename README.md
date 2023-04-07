@@ -12,3 +12,6 @@ The `put-your-code-here`
 
 
 ## 
+
+<img src="https://github.com/PaolaSouto/PRISMA-Hyperspectral-Shorelines/blob/main/imgs/SDS_PRISMA_example.png" width="400" height="400">
+
