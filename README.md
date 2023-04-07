@@ -10,7 +10,7 @@ The
 
 ### Create Anaconda environment
 
-The `conda env create -f PRISMA_SDS.yml`
+`conda env create -f PRISMA_SDS.yml`
 
 
 ## 
