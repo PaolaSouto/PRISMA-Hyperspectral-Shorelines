@@ -17,13 +17,26 @@ A short project of approximately XXX words must be sent, and ASI will release th
 
 Several steps are required before running the codes.
 
-
- 
 1. Install *Anaconda*, which can be download from https://www.anaconda.com/download.
-2. Using the shell (Mac and Linux), go to the folder where this repository was downloaded by tipping:
-`cd repository_directory`
-2. Create an environment containing the needed Python packages: `conda env create -f PRISMA_SDS.yml`
 
+Using the shell (Mac and Linux):
+
+2.  Go to the folder where this repository was downloaded by tipping: 'cd repository_directory'
+3. Create an environment containing the required Python packages: `conda env create -f PRISMA_SDS.yml`
+4. Activate the environment: `conda activate PRISMA_sds`
+5. Launch jupyter notebook: `jupyter notebook`
+
+### Run the jupyter notebooks
+
+Shorelines can be obtained using two methods, each with its own jupyter notebook: the profiles and the k-means approach.
+
+
+* #### Profiles approach: Profiles_method.ipynb
+
+
+
+
+* #### K-means approach: kmeans_method.ipynb
 
 
 
