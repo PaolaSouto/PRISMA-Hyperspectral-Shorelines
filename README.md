@@ -21,7 +21,7 @@ Several steps are required before running the codes.
 
 Using the shell (Mac and Linux):
 
-2.  Go to the folder where this repository was downloaded by tipping: 'cd repository_directory'
+2. Go to the folder where this repository was downloaded by tipping: 'cd repository_directory'
 3. Create an environment containing the required Python packages: `conda env create -f PRISMA_SDS.yml`
 4. Activate the environment: `conda activate PRISMA_sds`
 5. Launch jupyter notebook: `jupyter notebook`
@@ -32,8 +32,10 @@ Check the pre-requirements.
 
 MANDATORY :warning:
 
-* The folder structure [function already done. Really optim?]
-* The PRISMA images [bounding box] or [cropped image]. Check if those options are both really offered
+* The folder structure [function already done. Really optim?] [add also the folder name]
+* The PRISMA images [bounding box] or [cropped image]. Check if those options are both really offered. IMAGE NAMING
+* Image grid
+* Beach baseline
 
 OPTIONAL
 
