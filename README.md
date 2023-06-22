@@ -26,7 +26,7 @@ Using the shell (Mac and Linux):
 4. Activate the environment: `conda activate PRISMA_sds`
 5. Launch jupyter notebook: `jupyter notebook`
 
-### Before running notebooks
+### Before running the jupyter notebooks
 
 ### Run the jupyter notebooks
 
