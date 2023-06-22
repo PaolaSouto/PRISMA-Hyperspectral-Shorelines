@@ -1,5 +1,5 @@
 # PRISMA-Hyperspectral-Shorelines
-These codes allow to extract shorelines with two different methods from PRISMA hyperspectral images as described in the publication: "Subpixel shoreline mapping tool from PRISMA hyperspectral remotely-sensed images.”
+These codes allow to extract subpixel shorelines with two different methods from PRISMA hyperspectral images as described in the publication: "Subpixel shoreline mapping tool from PRISMA hyperspectral remotely-sensed images.”
 
 https://doi.org/10.3390/rs15082117
 
