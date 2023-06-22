@@ -9,7 +9,7 @@ The codes work with PRISMA hyperspectral images distributed by the "Agenzia Spaz
 
 <img src="https://github.com/PaolaSouto/PRISMA-Hyperspectral-Shorelines/blob/main/imgs/AccessPrisma.jpg">
 
-A short project of approximately XXX words must be sent, and ASI will release the license within a few days. 
+A short project of, at least, 150 words must be sent, and ASI will release the license within a few days. 
 
 ## 1. Installation
 
