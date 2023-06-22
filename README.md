@@ -30,7 +30,7 @@ Using the shell (Mac and Linux):
 
 Check the pre-requirements.
 
-:top:	MANDATORY
+:warning:	MANDATORY
 
 * The folder structure [function already done. Really optim?]
 * The PRISMA images [bounding box] or [cropped image]. Check if those options are both really offered
