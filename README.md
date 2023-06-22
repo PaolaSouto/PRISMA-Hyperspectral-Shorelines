@@ -26,6 +26,8 @@ Using the shell (Mac and Linux):
 4. Activate the environment: `conda activate PRISMA_sds`
 5. Launch jupyter notebook: `jupyter notebook`
 
+### Before running notebooks
+
 ### Run the jupyter notebooks
 
 Shorelines can be obtained using two methods, each with its own jupyter notebook: the profiles and the k-means approach.
