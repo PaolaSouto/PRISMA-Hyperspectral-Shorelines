@@ -60,7 +60,12 @@ Shorelines can be obtained using two methods, each with its own jupyter notebook
 
 ### Outputs
 
-The results for each algorithm were one. txt and one .geojson with the Satellite-Derived Shoreline of the analyzed image. The .txt is given in image coordinates, whereas the geojson is in real-world coordinates.
+The results for each algorithm were one .txt and one .geojson with the Satellite-Deriv⍺ed Shoreline of the analyzed image. The .txt is given in image coordinates, whereas the geojson is given in real-world coordinates.
+
+
+The files are stored in the directory ../SCENES/COUNTRY/BEACH_NUM/Results/SDS/derivative
+The format of the files are:
+
 
 <img src="https://github.com/PaolaSouto/PRISMA-Hyperspectral-Shorelines/blob/main/imgs/SDS_PRISMA_example.png" width="400" height="400">
 
