@@ -28,6 +28,19 @@ Using the shell (Mac and Linux):
 
 ### Before running the jupyter notebooks
 
+Check the pre-requirements.
+
+:top	MANDATORY
+
+* The folder structure [function already done. Really optim?]
+* The PRISMA images [bounding box] or [cropped image]. Check if those options are both really offered
+
+OPTIONAL
+
+* Pre-defined files
+* Bounding Box file
+* Nothing else
+
 ### Run the jupyter notebooks
 
 Shorelines can be obtained using two methods, each with its own jupyter notebook: the profiles and the k-means approach.
@@ -43,7 +56,7 @@ Shorelines can be obtained using two methods, each with its own jupyter notebook
 
 
 
-## 
+### Outputs
 
 <img src="https://github.com/PaolaSouto/PRISMA-Hyperspectral-Shorelines/blob/main/imgs/SDS_PRISMA_example.png" width="400" height="400">
 
