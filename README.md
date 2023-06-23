@@ -33,9 +33,11 @@ Check the pre-requirements.
 MANDATORY :warning:
 
 * The folder structure [function already done. Really optim?] [add also the folder name]
-* The PRISMA images [bounding box] or [cropped image]. Check if those options are both really offered. IMAGE NAMING
-* Image grid
+* The PRISMA images 
 * Beach baseline
+* Image grid
+
+To set up the folders and files for obtaining the SDS, run the **Preprocessing** jupyter notebook.
 
 OPTIONAL
 
