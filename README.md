@@ -35,6 +35,7 @@ MANDATORY :warning:
 * The folder structure [function already done. Really optim?] [add also the folder name]
 * The PRISMA images 
 * Beach baseline
+* Profiles
 * Image grid
 
 To set up the folders and files for obtaining the SDS, run the **Preprocessing.ipynb** jupyter notebook.
