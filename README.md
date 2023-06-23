@@ -37,7 +37,7 @@ MANDATORY :warning:
 * Beach baseline
 * Image grid
 
-To set up the folders and files for obtaining the SDS, run the **Preprocessing** jupyter notebook.
+To set up the folders and files for obtaining the SDS, run the **Preprocessing.ipynb** jupyter notebook.
 
 OPTIONAL
 
